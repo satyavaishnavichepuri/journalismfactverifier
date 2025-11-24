@@ -42,6 +42,7 @@ pip install -r requirements.txt
 ```
 
 4. **Ensure dataset files are present:**
+   from https://www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets?resource=download (a kaggle dataset)
 The following CSV files should be in the project root:
 - `True.csv` - Real news articles (21,417 articles)
 - `Fake.csv` - Fake news articles (23,481 articles)
