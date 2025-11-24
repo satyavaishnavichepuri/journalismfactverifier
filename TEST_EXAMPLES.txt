@@ -1,0 +1,62 @@
+
+1. Senate passed the Republican tax bill
+2. Trump signed the tax reform into law
+3. FBI is investigating Russian interference in the election
+4. Robert Mueller is leading the Russia probe
+5. North Korea conducted missile tests
+6. Hurricane Harvey hit Texas in 2017
+7. Trump met with world leaders at the UN
+8. Congress debated healthcare reform
+9. The White House announced new immigration policy
+10. Democrats opposed the Republican budget plan
+
+1. Hillary Clinton is going to prison
+2. Obama secretly spied on Trump Tower
+3. Trump banned all Muslims from America
+4. FBI covered up Clinton email scandal
+5. Democrats want to destroy America
+6. Trump saved thousands of jobs at Carrier
+7. Clinton Foundation stole Haiti donations
+8. Mueller investigation is a witch hunt
+9. Trump won the popular vote
+10. Deep state is trying to overthrow Trump
+
+Topics for Testing:
+
+- Trump administration policies
+- Russia investigation
+- Republican/Democrat politics
+- FBI investigations
+- Immigration debates
+- Tax reform
+- Healthcare debates
+- Election-related claims
+
+Testing Tips:
+
+- Copy and paste these claims directly into the fact checker
+- Try variations of the claims
+- Mix political keywords to see how the model responds
+- The model works best on 2017 political news topics
+- Confidence scores above 70% are strong predictions
+- Confidence scores below 65% = UNVERIFIABLE
+
+How to Run Tests:
+
+1. Activate virtual environment:
+   source venv/bin/activate
+
+2. Run the fact checker:
+   python fact_checker.py
+
+3. Enter claims one by one and observe results
+
+4. Take note of confidence scores and verdicts
+
+What to Observe:
+
+- Does it correctly identify TRUE news?
+- Does it correctly identify FAKE news?
+- What confidence levels does it give?
+- How does it handle ambiguous claims?
+- What patterns work best/worst?
